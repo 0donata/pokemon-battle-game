@@ -1,0 +1,14 @@
+.hpBar {
+  width: 100%;
+  height: 10px;
+  background-color: #ddd;
+  border-radius: 5px;
+  overflow: hidden;
+  margin-top: 5px;
+  position: relative;
+}
+
+.hpBarFill {
+  height: 100%;
+  transition: width 0.3s ease;
+}

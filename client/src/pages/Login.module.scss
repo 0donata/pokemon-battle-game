@@ -1,0 +1,15 @@
+.Login {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  button {
+    align-self: center;
+  }
+  img {
+    align-self: center;
+    max-width: 300px;
+    height: auto;
+  }
+}
