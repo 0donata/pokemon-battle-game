@@ -3,9 +3,6 @@
   display: flex;
   flex-direction: column;
   justify-content: center;
-  h2 {
-    text-align: center;
-  }
   .versusContainer {
     display: flex;
     flex-wrap: wrap;
@@ -22,6 +19,9 @@
         top: 0;
         margin: 0;
         color: green;
+      }
+      p {
+        margin-bottom: 0;
       }
     }
 
